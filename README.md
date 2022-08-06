@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Dorukuz
-- 👀 I’m interested in coding.
 - 📫 How to reach me :
- Discord: Dorukuz#4555 
+![Discord](https://discord-readme-badge.vercel.app/api?id=<831224410726989846>)
  Website: Axiserver.com
  Twitter: @Dorukuzgur
 <!---
