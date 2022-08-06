@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Dorukuz
 - 📫 How to reach me :
-![Discord](https://discord-readme-badge.vercel.app/api?id=<831224410726989846>)
  Website: Axiserver.com
  Twitter: @Dorukuzgur
  
